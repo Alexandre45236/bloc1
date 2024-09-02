@@ -20,6 +20,10 @@ les en-têtes HTTP permettent d'étendre facilement le protocole et de mener des
  
 # **Question 4 - Sans état**
 
+chaque requête HTTP reçue par le serveur est indépendante et ne concerne pas les requêtes antérieures .
+
+# **Question 5 URL**
+
 Le protocole Il communique au serveur internet comment accéder aux pages de votre site internet. ex : https
 Le sous-domaine Il indique à votre navigateur quelle page de votre site il doit afficher. ex : blog
 Le nom de domaine. C'est le nom de votre site web. ex : lvmh.comLe deuxième nom de domaine. Il précise le type d’entité sous laquelle est enregistrée votre organisation sur internet. ex : .net 
@@ -27,11 +31,19 @@ Le répertoire Il aide les visiteurs à comprendre sur quelle section bien préc
 
 *https://digitalmym.com/les-differentes-parties-dune-url/*
  
+# **Question 6 Codes Statuts**
+
+Les réponses informatives ( 100 - 199 ),
+Les réponses de succès ( 200 - 299 ),
+Les messages de redirection ( 300 - 399 ),
+Les erreurs du client ( 400 - 499 ),
+Les erreurs du serveur ( 500 - 599 ).
+
+*https://developer.mozilla.org/fr/docs/Web/HTTP/Status*
  
+# **Question 7 – Négociation de contenu**
+
+Lorsqu'un client souhaite obtenir une ressource, il la demande via une URL.
  
- 
- 
- 
- 
- 
+*https://developer.mozilla.org/fr/docs/Web/HTTP/Content_negotiation*
  
