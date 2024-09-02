@@ -22,6 +22,8 @@ les en-têtes HTTP permettent d'étendre facilement le protocole et de mener des
 
 chaque requête HTTP reçue par le serveur est indépendante et ne concerne pas les requêtes antérieures .
 
+*https://www.oreilly.com/library/view/hands-on-full-stack-web/9781788622882/46146c7a-c43c-4218-acf1-60a8b493f04e.xhtml*
+
 # **Question 5 URL**
 
 Le protocole Il communique au serveur internet comment accéder aux pages de votre site internet. ex : https
