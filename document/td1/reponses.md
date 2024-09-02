@@ -18,6 +18,8 @@ Le formulaire doit être envoyé à chaque retour en arrière et retour en avant
 
 les en-têtes HTTP permettent d'étendre facilement le protocole et de mener des expérimentations avec celui-ci.
  
+*https://developer.mozilla.org/fr/docs/Web/HTTP/Headers*
+
 # **Question 4 - Sans état**
 
 chaque requête HTTP reçue par le serveur est indépendante et ne concerne pas les requêtes antérieures .
